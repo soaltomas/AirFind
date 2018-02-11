@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  AirFind
+
+  Created by Артем Полушин on 11.02.2018.
+  Copyright © 2018 Артем Полушин. All rights reserved.
+*/
+// TabBarController
+"search_tab" = "Search";
+"map_tab" = "Map prices";
+"favorites_tab" = "Favorites";
+// MainViewController
+"main_search" = "Search";
+"main_from" = "From";
+"main_to" = "To";
+"main_search" = "Search";
+// FirstViewController
+"about_app_header" = "About app";
+"tickets_header" = "Tickets";
+"map_price_header" = "MAP PRICES";
+"favorites_header" = "FAVORITES";
+"about_app_describe" = "Application to search for tickets";
+"tickets_describe" = "Find the cheapest airline tickets";
+"map_price_describe" = "Browse map prices";
+"favorites_describe" = "Save selected tickets to favorites";
+"next_button" = "NEXT";
+"done_button" = "DONE";
+// TicketsViewController
+"tickets_title" = "Tickets";
+"favorites" = "Favorites";
+"add_to_favorite" = "Add to favorite";
+"remove_from_favorite" = "Remove from favorite";
+"remind_me" = "Remind me";
+"ticket_reminder" = "Ticket reminder";
+"notification_will_be_sent" = "Notification will be sent";
+"success" = "Success";
+// PlaceViewController
+"from" = "From";
+"to" = "To";
+"cities" = "Cities";
+"airports" = "Airports";
+// MapViewController
+"map" = "Map prices";
+// Alerts
+"error" = "Error";
+"oops" = "Oops!";
+"tickets_not_found" = "Tickets not found";
+"close" = "Close";
+"not_set_place_arrival_or_departure" = "Not set place arrival or departure";
+"actions_with_tickets" = "Actions with tickets";
+"actions_with_tickets_describe" = "What should be done with the selected ticket?";
+"not_determine_current_city" = "Not determine current city!";
