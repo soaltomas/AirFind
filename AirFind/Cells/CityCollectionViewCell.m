@@ -27,7 +27,7 @@
         self.contentView.layer.cornerRadius = 15.0;
         self.contentView.backgroundColor = [UIColor whiteColor];
         
-        _textLabel = [[UILabel alloc] initWithFrame: CGRectMake(0, 0, self.bounds.size.width, 40)];
+        _textLabel = [[UILabel alloc] initWithFrame: CGRectMake(5, self.bounds.size.height/2 - 10, self.bounds.size.width, 20)];
         [self.contentView addSubview: _textLabel];
     }
     

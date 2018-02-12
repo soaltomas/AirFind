@@ -39,7 +39,7 @@
     UICollectionViewFlowLayout *layout = [[UICollectionViewFlowLayout alloc] init];
     layout.minimumLineSpacing = 2.0;
     layout.minimumInteritemSpacing = 2.0;
-    layout.itemSize = CGSizeMake(self.view.bounds.size.width/4 - 2, self.view.bounds.size.width/4 - 2);
+    layout.itemSize = CGSizeMake(self.view.bounds.size.width/3 - 2, self.view.bounds.size.width/6 - 1);
     layout.scrollDirection = UICollectionViewScrollDirectionVertical;
     
     self.navigationController.navigationBar.tintColor = [UIColor blackColor];

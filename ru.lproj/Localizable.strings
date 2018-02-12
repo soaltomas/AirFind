@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  AirFind
+
+  Created by Артем Полушин on 11.02.2018.
+  Copyright © 2018 Артем Полушин. All rights reserved.
+*/
+
+// TabBarController
+"search_tab" = "Поиск";
+"map_tab" = "Карта цен";
+"favorites_tab" = "Избранное";
+// MainViewController
+"main_search" = "Поиск";
+"main_from" = "Откуда";
+"main_to" = "Куда";
+"main_search" = "Найти";
+// FirstViewController
+"about_app_header" = "О ПРИЛОЖЕНИИ";
+"tickets_header" = "АВИАБИЛЕТЫ";
+"map_price_header" = "КАРТА ЦЕН";
+"favorites_header" = "ИЗБРАННОЕ";
+"about_app_describe" = "Приложение для поиска авиабилетов";
+"tickets_describe" = "Находите самые дешевые авиабилеты";
+"map_price_describe" = "Просматривайте карту цен";
+"favorites_describe" = "Сохраняйте выбранные билеты в избранное";
+"next_button" = "ДАЛЕЕ";
+"done_button" = "ГОТОВО";
+// TicketsViewController
+"tickets_title" = "Билеты";
+"favorites" = "Избранное";
+"add_to_favorite" = "Добавить в избранное";
+"remove_from_favorite" = "Удалить из избранного";
+"remind_me" = "Напомнить";
+"ticket_reminder" = "Напоминание о билете";
+"notification_will_be_sent" = "Уведомление будет отправлено";
+"success" = "Успешно";
+// PlaceViewController
+"from" = "Откуда";
+"to" = "Куда";
+"cities" = "Города";
+"airports" = "Аэропорты";
+// MapViewController
+"map" = "Карта цен";
+// Alerts
+"error" = "Ошибка";
+"oops" = "Увы!";
+"tickets_not_found" = "По данному направлению билетов не найдено";
+"close" = "Закрыть";
+"not_set_place_arrival_or_departure" = "Необходимо указать место отправления и место прибытия";
+"actions_with_tickets" = "Действия с билетом";
+"actions_with_tickets_describe" = "Что необходимо сделать с выбранным билетом?";
+"not_determine_current_city" = "Не удалось определить текущий город!";
